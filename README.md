@@ -35,7 +35,7 @@ This project began as a hands-on way to gain experience with cloud technologies 
 - Delete the default RDP rule.
 ![RDP](Img/rdp.png)
 - Create a new inbound security rule to allow all traffic.
-![Inbound](Img/inbound.png)
+![Inbound](Img/Inbound.png)
 - Connect to the VM using Remote Desktop.
 - Disable the Windows Firewall for unrestricted traffic capture.
 - Create a Log Analytics Workspace in the same Resource Group.
