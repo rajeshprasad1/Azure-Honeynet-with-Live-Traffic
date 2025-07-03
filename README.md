@@ -46,7 +46,7 @@ This project began as a hands-on way to gain experience with cloud technologies 
     - Triggers when the brute-force rule fires.
     - Sets the incident status to Active.
     - Adds priority, tags, and tasks for triaging.
-![Analytic Rule](Img/Rule.png)
+![Analytic Rule](Img/rule.png)
 - Connect Windows Security Events to the Log Analytics Workspace using Azure Monitor Agent (AMA).
 ![AMA](Img/AMA.png)
 - Create a Watchlist and import the following GeoIP CSV file as the source.
