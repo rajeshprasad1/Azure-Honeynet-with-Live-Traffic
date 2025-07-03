@@ -5,7 +5,7 @@
 This project began as a hands-on way to gain experience with cloud technologies and understand how attackers attempt to disrupt an organization's infrastructure. My goal was to build a cloud-based SIEM, monitor system activity, and analyze potential attack patterns. Through this process, I aimed to strengthen my cybersecurity skills and apply them in real-world scenarios.
 
 🔗 **Read the full blog post here:**  
-[IN PROGRESS]( )
+[Azure Honeypot with Live Traffic]( )
 
 ### Skills Learned
 
