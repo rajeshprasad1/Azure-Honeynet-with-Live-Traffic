@@ -1,5 +1,5 @@
 # AZURE-HONEYPOT-WITH-LIVE-TRAFFIC
-
+![Network_Design](Img/Network%20Diagram.drawio.png)
 ## Objective
 
 This project began as a hands-on way to gain experience with cloud technologies and understand how attackers attempt to disrupt an organization's infrastructure. My goal was to build a cloud-based SIEM, monitor system activity, and analyze potential attack patterns. Through this process, I aimed to strengthen my cybersecurity skills and apply them in real-world scenarios.
@@ -46,6 +46,7 @@ This project began as a hands-on way to gain experience with cloud technologies 
     - Triggers when the brute-force rule fires.
     - Sets the incident status to Active.
     - Adds priority, tags, and tasks for triaging.
+![Analytic Rule](Img/Rule.png)
 - Connect Windows Security Events to the Log Analytics Workspace using Azure Monitor Agent (AMA).
 ![AMA](Img/AMA.png)
 - Create a Watchlist and import the following GeoIP CSV file as the source.
