@@ -5,7 +5,7 @@
 This project began as a hands-on way to gain experience with cloud technologies and understand how attackers attempt to disrupt an organization's infrastructure. My goal was to build a cloud-based SIEM, monitor system activity, and analyze potential attack patterns. Through this process, I aimed to strengthen my cybersecurity skills and apply them in real-world scenarios.
 
 🔗 **Read the full blog post here:**  
-[Azure Honeypot with Live Traffic]( )
+[Azure Honeypot with Live Traffic](https://medium.com/@rajesh.p3807/azure-honeypot-with-live-traffic-6de04990e651)
 
 ### Skills Learned
 
@@ -50,7 +50,6 @@ This project began as a hands-on way to gain experience with cloud technologies 
 - Connect Windows Security Events to the Log Analytics Workspace using Azure Monitor Agent (AMA).
 ![AMA](Img/AMA.png)
 - Create a Watchlist and import the following GeoIP CSV file as the source.
-    - [GeoIP](https://sacyberrange00.blob.core.windows.net/vm-applications/geoip-summarized.csv?sp=r&st=2025-05-16T00:31:16Z&se=2030-01-01T08:31:16Z&spr=https&sv=2024-11-04&sr=b&sig=taUGULhhgRiY0BRwEEbhusoh%2BxaIQJWAFwxN2%2FOWWhc%3D)
 - Create a Workbook in Sentinel
 - Import your map.json file to visualize attacks geographically.
 - Wait ~24 hours for data collection and incident generation.
